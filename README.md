@@ -1,4 +1,5 @@
-## Hi there 👋
+![1000153760](https://github.com/user-attachments/assets/ce8e334b-c8d0-438a-b88b-984dfd08bc74)
+
 
 <!--
 **harribugg/harribugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
